@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This is my portfolio site. It houses my projects and lists my skills with a clean, efficient interface.
+This is my portfolio site. It houses my projects and lists my skills with a clean and efficient interface.
 	
 ## Technologies
 Project is created with:
